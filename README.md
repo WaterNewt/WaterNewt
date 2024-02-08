@@ -4,7 +4,7 @@ I'm a 12 year old `Python` developer with over 3 years of experience. I have a v
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-red?logo=video)](https://youtube.com/@yunus.ruzmetov?sub_confirmation=1 "YouTube")
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=waternewt&show_icons=true&theme=transparent&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=waternewt&show_icons=true&theme=transparent&hide_border=true&locale=en&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waternewt&theme=transparent&hide_border=true&locale=en&hide=shell&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 

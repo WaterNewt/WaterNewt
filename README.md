@@ -1,8 +1,6 @@
 # Water Newt
 
-I'm a 12 year old `Python` developer with over 3 years of experience. I have a very good knowledge of the programming language, because I am very pasionate for it. Most (nearly all) of my projects were written in `Python`. I upload videos of me programming the projects on my YouTube Channel
-
-[![YouTube](https://custom-icon-badges.demolab.com/badge/YouTube-red?logo=video)](https://youtube.com/@yunus.ruzmetov?sub_confirmation=1 "YouTube")
+I'm a young `Python` developer with over 3 years of experience. I have a very good knowledge of the programming language, because I am very pasionate for it. Most (nearly all) of my projects were written in `Python`.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=waternewt&show_icons=true&theme=transparent&hide_border=true&locale=en&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
